@@ -1,0 +1,2 @@
+# DCGAN-project
+The repository is implementation of deep convolutional generative adversial networks (DCGAN) by [Radford et al.](https://arxiv.org/abs/1511.06434) inspired from examples in PyTorch for an assignment under the course [Deep Learning for Visual Recognition (WS 2017/18)](http://cg.cs.uni-bonn.de/de/lehre/ws-2017/vorlesung-deep-learning-for-visual-recognition/) that was offered by [Prof. Angela Yao](https://angelayao.com/) at University of Bonn. 
